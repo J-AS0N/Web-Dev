@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+
+.header{
+    color: rgba(126, 255, 131, 0.708);
+    padding-left: 10px;
+}
+
+.links {
+    color: grey;
+}
+
+.links a {
+    color: white;
+}

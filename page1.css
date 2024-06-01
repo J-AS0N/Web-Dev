@@ -1,0 +1,31 @@
+body {
+    background: #333333;
+}
+
+.header {
+    color: white;
+}
+
+.intro {
+    color: #CCCCCC;
+}
+
+.cs {
+    border-style: solid;
+    border-color: darkgrey;
+    border-radius: 10px;
+}
+
+.gym {
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    border-color: aqua;
+}
+
+.music {
+    border-style: solid;
+    border-color: lightgreen;
+    border-radius: 10px;
+}
+
