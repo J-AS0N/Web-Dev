@@ -16,6 +16,12 @@ add.onclick = function () {
 };
 
 del.onclick = function () {
-    
+    // grabs the ordered list based on id
+    let myList = document.getElementById("list");
 
-};
+    // set the lastItem as the last child in the list
+    let lastItem = myList.lastChild;
+
+    // remove the last item
+    myList.removeChild(lastItem);
+}; 
